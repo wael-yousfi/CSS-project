@@ -1,0 +1,291 @@
+body{
+    background-image: url("wp6412485.jpg");
+}
+.logo{
+    width: 160px;
+    height: 50px;
+    
+}
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+.navbar .nav-links ul{
+    display: flex;
+}
+.navbar .nav-links ul li{
+    margin: 0 30px;
+    display: flex;
+}
+.navbar .nav-links ul li a{
+    color: red;
+    font-weight: 600;
+}
+h1{
+    color:aliceblue
+}
+#home .nom{
+
+color: white;
+margin-top: 150px;
+margin-left: 300px;
+font-size: 300%;
+}
+#home .disc{
+    color: white;
+margin-left: 330px;
+font-size: 300%;
+}
+#home .etudiant{
+    color: gray;
+    margin-left: 350px;
+font-size: 300%;
+}
+#home .y{
+    color:blue;
+    margin-left: 650px;
+    margin-top: 50px;
+}
+#about .l{
+    color:blue;
+    margin-left: 650px;
+    margin-top: 300px;
+}
+#about .virgul{
+    color: blue;
+    font-size: 600%;
+    margin-left: 300px;
+    margin-top: 0%;
+
+}
+#about .m{
+    color: black;
+    margin-left: 400px;
+    margin-bottom: 60%;
+    font-size: 200%;
+}
+#about{
+    background-color: gainsboro;
+    height: 500px;
+    border-radius: 5%;
+    border-color: yellow;
+    background-position: center;
+
+}
+#cc{
+background-color: gainsboro;
+padding-bottom: 10px;
+}
+#cc .comp{
+    color: black;
+    text-align: center;
+    color: chocolate;
+    font-size: 300%;
+}
+#cc .de{
+    margin-left: 3%;
+    color: blueviolet;
+    font-size: 200%;
+    
+}
+#cc .hc{
+    margin-left: 5%;
+    font-size: 200%;
+    background-color: orangered;
+    width: 1180px;
+    height: 40px;
+    padding-left: 2%;
+}
+#cc .ph{
+    margin-left: 5%;
+    font-size: 200%;
+    background-color: orangered;
+    width: 1000px;
+    height: 40px;
+    padding-left: 2%;
+}
+#cc .sq{
+    margin-left: 5%;
+    font-size: 200%;
+    background-color: orangered;
+    width: 800px;
+    height: 40px;
+    padding-left: 2%;
+}
+#cc .js{
+    margin-left: 5%;
+    font-size: 200%;
+    background-color: orangered;
+    width: 600px;
+    height: 40px;
+    padding-left: 2%;
+}
+#cc .net{
+    margin-left: 5%;
+    font-size: 200%;
+    background-color: orangered;
+    width: 400px;
+    height: 40px;
+    padding-left: 2%;
+}
+#contact{
+    color:blue;
+    margin-left: 650px;
+    margin-top: 50px;
+}
+#formulair{
+    background-color: gainsboro;
+    border-radius: 13px;
+    border: 10px;
+    border-color: white;
+    margin-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 130px;
+    margin-right: 130px;
+    height: 300px;
+    
+}
+#formulair .nomprenom{
+    display: flex;
+    margin-left: 140px;
+    gap: 200px;
+    margin-top: 40px;
+    
+}
+#formulair .emailphone{
+    display: flex;
+    margin-left: 200px;
+    gap: 200px;
+    margin-top: 150px;
+}
+#formulair .nomprenom .fou .lab{
+    color: black;
+    padding-right: 30px;  
+    text-decoration: underline;
+    font-size: large;
+}
+#formulair .nomprenom .fop .tab{
+    padding-right: 30px;
+    color: black;
+    text-decoration: underline;
+    font-size: large;
+}
+#formulair .emailphone .top .ne{
+    padding-right: 30px;
+    color: black;
+    text-decoration: underline;
+    font-size: large;
+}
+#formulair .emailphone .tou .em{
+    padding-right: 30px;
+    color: black;
+    text-decoration: underline;
+    font-size: large;
+}
+#formulair .nomprenom .fou{
+    margin-top: 20px;
+}
+#formulair .nomprenom .fop{
+    margin-top: 20px;
+}
+#c{
+    background-color: gray;
+    
+}
+#c .ww{
+    color: black;
+    margin-left: 420px;
+    text-decoration: underline;
+}
+#c .ig{
+    width: 40px;
+    height: 40px;
+    padding-left: 10px;
+}
+#c .bbb{
+    color: black;
+    padding-left: 10px;
+}
+
+#c .ppp{
+    width: 40px;
+    height: 40px;
+    padding-left: 10px;
+}
+#c .qqq{
+    color: black;
+    padding-left: 10px;
+}
+#c .uu{
+    width: 40px;
+    height: 40px;
+    padding-left: 10px;
+}
+#C .LL{
+    color: black;
+    padding-left: 10px;
+}
+#c .jj{
+    display: flex;
+    gap: 100px;
+    margin-top: 100px;
+}
+#c .jj .ti{
+    display: flex;
+}
+#c .jj .li{
+    display: flex;
+    margin-left: 130px;
+}
+#c .jj .si{
+    display: flex;
+    margin-left: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
